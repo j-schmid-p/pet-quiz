@@ -1,9 +1,7 @@
-# pet-quiz
-quiz game about dog and cat health and how to take care of them.
-
 # STATUS
 Completed, no further updates planned
 
+# ABOUT
 **I deliberatly made this program using only one class**
 
 This is a multiple-choice quiz, whith 3 possible answers for each question that works by terminal. 
